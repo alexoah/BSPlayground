@@ -20,6 +20,36 @@ Total: 54 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_alerts1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_alerts2) | [Q3](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_alerts3) |
 | Answer | [A1](./BS3-Alerts/bsAlertsE1.html) | [A2](./BS3-Alerts/bsAlertsE2.html) | [A3](./BS3-Alerts/bsAlertsE3.html) |
 
+## [BOOTSTRAP 3 Buttons](./BS3-Buttons): 8 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/bootstrap/bootstrap_buttons.asp) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| :--- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_buttons1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_buttons2) | [Q3](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_buttons3) | [Q4](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_buttons4) | [Q5](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_buttons5) | [Q6](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_buttons6) | [Q7](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_buttons7) | [Q8](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_buttons8) |
+| Answer | [A1](./BS3-Buttons/bsButtonsE1.html) | [A2](./BS3-Buttons/bsButtonsE2.html) | [A3](./BS3-Buttons/bsButtonsE3.html) | [A4](./BS3-Buttons/bsButtonsE4.html) | [A5](./BS3-Buttons/bsButtonsE5.html) | [A6](./BS3-Buttons/bsButtonsE6.html) | [A7](./BS3-Buttons/bsButtonsE7.html) | [A8](./BS3-Buttons/bsButtonsE8.html) |
+
+## [BOOTSTRAP 3 Glyphicons](./BS3-Glyphicons): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/bootstrap/bootstrap_glyphicons.asp) | 1 | 2 |
+| :--- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_glyphicons1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_glyphicons2) |
+| Answer | [A1](./BS3-Glyphicons/bsGlyphiconsE1.html) | [A2](./BS3-Glyphicons/bsGlyphiconsE2.html) |
+
+## [BOOTSTRAP 3 Badges](./BS3-Badges): 3 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/bootstrap/bootstrap_badges_labels.asp) | 1 | 2 | 3 |
+| :--- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_badges1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_badges2) | [Q3](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_badges3) |
+| Answer | [A1](./BS3-Badges/bsBadgesE1.html) | [A2](./BS3-Badges/bsBadgesE2.html) | [A3](./BS3-Badges/bsBadgesE3.html) |
+
+## [BOOTSTRAP 3 Progress Bar](./BS3-ProgressBar): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/bootstrap/bootstrap_progressbars.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_progressbars1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_progressbars2) | [Q3](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_progressbars3) | [Q4](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_progressbars4) |
+| Answer | [A1](./BS3-ProgressBar/bsProgressBarE1.html) | [A2](./BS3-ProgressBar/bsProgressBarE2.html) | [A3](./BS3-ProgressBar/bsProgressBarE3.html) | [A4](./BS3-ProgressBar/bsProgressBarE4.html) |
+
+## [BOOTSTRAP 3 Pagination](./BS3-Pagination): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/bootstrap/bootstrap_pagination.asp) | 1 | 2 | 3 | 4 | 5 |
+| :--- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_pagination1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_pagination2) | [Q3](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_pagination3) | [Q4](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_pagination4) | [Q5](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_pagination5) |
+| Answer | [A1](./BS3-Pagination/bsPaginationE1.html) | [A2](./BS3-Pagination/bsPaginationE2.html) | [A3](./BS3-Pagination/bsPaginationE3.html) | [A4](./BS3-Pagination/bsPaginationE4.html) | [A5](./BS3-Pagination/bsPaginationE5.html) |
+
 ***more list will be added later***
 
 ##
