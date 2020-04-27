@@ -6,10 +6,7 @@ Thank you for your visit!
 * [W3Schools' BOOTSTRAP 3 Exercises](./W3School-BS3Exercises): answers to W3School's BOOTSTRAP 3 Exercises
 
 ## Related Playgrounds
-* [HTMLPlayground](https://github.com/alexoah/HTMLPlayground): on HTML
-* [CSSPlayground](https://github.com/alexoah/CSSPlayground): on CSS
-* [JSPlayground](https://github.com/alexoah/JSPlayground): on JavaScript
-* [jQPlayground](https://github.com/alexoah/jQPlayground): on jQuery
+* [ [HTML Playground](https://github.com/alexoah/HTMLPlayground) ] - [ [CSS Playground](https://github.com/alexoah/CSSPlayground) ] - [ [JavaScript Playground](https://github.com/alexoah/JSPlayground) ] - [ [jQuery Playground](https://github.com/alexoah/jQPlayground) ]
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
