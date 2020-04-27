@@ -50,7 +50,29 @@ Total: 54 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_pagination1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_pagination2) | [Q3](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_pagination3) | [Q4](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_pagination4) | [Q5](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_pagination5) |
 | Answer | [A1](./BS3-Pagination/bsPaginationE1.html) | [A2](./BS3-Pagination/bsPaginationE2.html) | [A3](./BS3-Pagination/bsPaginationE3.html) | [A4](./BS3-Pagination/bsPaginationE4.html) | [A5](./BS3-Pagination/bsPaginationE5.html) |
 
-***more list will be added later***
+## [BOOTSTRAP 3 Panels](./BS3-Panels): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/bootstrap/bootstrap_panels.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_panels1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_panels2) | [Q3](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_panels3) | [Q4](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_panels4) |
+| Answer | [A1](./BS3-Panels/bsPanelsE1.html) | [A2](./BS3-Panels/bsPanelsE2.html) | [A3](./BS3-Panels/bsPanelsE3.html) | [A4](./BS3-Panels/bsPanelsE4.html) |
+
+## [BOOTSTRAP 3 Dropdowns](./BS3-Dropdowns): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/bootstrap/bootstrap_dropdowns.asp) | 1 | 2 | 3 | 4 | 5 |
+| :--- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_dropdowns1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_dropdowns2) | [Q3](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_dropdowns3) | [Q4](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_dropdowns4) | [Q5](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_dropdowns5) |
+| Answer | [A1](./BS3-Dropdowns/bsDropdownsE1.html) | [A2](./BS3-Dropdowns/bsDropdownsE2.html) | [A3](./BS3-Dropdowns/bsDropdownsE3.html) | [A4](./BS3-Dropdowns/bsDropdownsE4.html) | [A5](./BS3-Dropdowns/bsDropdownsE5.html) |
+
+## [BOOTSTRAP 3 Tabs](./BS3-Tabs): 6 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp) | 1 | 2 | 3 | 4 | 5 | 6 |
+| :--- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_tabs1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_tabs2) | [Q3](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_tabs3) | [Q4](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_tabs4) | [Q5](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_tabs5) | [Q6](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_tabs6) |
+| Answer | [A1](./BS3-Tabs/bsTabsE1.html) | [A2](./BS3-Tabs/bsTabsE2.html) | [A3](./BS3-Tabs/bsTabsE3.html) | [A4](./BS3-Tabs/bsTabsE4.html) | [A5](./BS3-Tabs/bsTabsE5.html) | [A6](./BS3-Tabs/bsTabsE6.html) |
+
+## [BOOTSTRAP 3 Navbars](./BS3-Navbars): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_navbars1) | [Q2](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_navbars2) | [Q3](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_navbars3) | [Q4](https://www.w3schools.com/bootstrap/exercise_bs3.asp?filename=exercise_bs3_navbars4) |
+| Answer | [A1](./BS3-Navbars/bsNavbarsE1.html) | [A2](./BS3-Navbars/bsNavbarsE2.html) | [A3](./BS3-Navbars/bsNavbarsE3.html) | [A4](./BS3-Navbars/bsNavbarsE4.html) |
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
